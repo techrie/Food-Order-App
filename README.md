@@ -15,4 +15,4 @@
    - Connect our store to our app
    - Create a Slice (cartSlice)
    - Dispatch an action
-   - Selector    
+   - Subscribe the component to the store with Selector    
