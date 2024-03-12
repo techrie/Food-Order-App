@@ -6,7 +6,7 @@
       - Search
       - Restaurant Container
       - Restaurant Card
-    - Cart
+   - Cart
 
 
 ## Redux Implementation
