@@ -1,12 +1,12 @@
 ## Development Sequence
-    - Header
-        - Logo
-        - NavItems
-    - Body
-        - Search
-        - Restaurant Container
-        - Restaurant Card
-    - Cart
+      - Header
+          - Logo
+          - NavItems
+      - Body
+          - Search
+          - Restaurant Container
+          - Restaurant Card
+      - Cart
 
 
 ## Redux Implementation
